@@ -1,5 +1,3 @@
-from collections.abc import Iterator
-
 class Dog:
     def __init__(self, name, breed):
         self.breed = breed
